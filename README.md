@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Antonysyl
-- 👀 I’m interested in
+- 👋 Hi, I’m Anthony Chuka-Umeora
+- 👀 I’m interested in Collabrations(Tech wise) || Community Managing
 - 🌱 I’m currently learning Software Engineering and BlockChain Engineering
 - 💞️ I’m looking to collaborate on projects web3 and web2 alike
 - 📫 How to reach me;
